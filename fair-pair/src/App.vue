@@ -59,7 +59,7 @@ import RedPoint from "./assets/red-point.png";
 import BluePoint from "./assets/blue-point.png";
 import PurpleStar from "./assets/purple-star.png";
 
-const apiKey = "AIzaSyAe0Ow85wqOTv5fCgiNc-WT-eeqCtiNZDU";
+const apiKey = "비밀스런 API KEY임";
 const destination = ref({ lat: 37.25403, lng: 127.041289 });
 const drawDirection = ref(false);
 const isComputing = ref(false);
